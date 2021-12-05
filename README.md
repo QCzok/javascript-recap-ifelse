@@ -10,4 +10,4 @@ Falls der Roboter angeschaltet ist, schreibt er eine Konsolenausgabe mit folgend
 
 Falls der Roboter ausgeschaltet ist, schreibt er eine Konsolenausgabe mit folgendem Text: "Störe mich nicht, ich bin am schlafen."
 
-Teste dein Programm zuerst, wenn der Roboter eingeschaltet ist und ein zweites Mal, wenn er ausgeschaltet ist.
+Teste dein Programm zuerst, wenn der Roboter eingeschaltet ist und ein zweites Mal, wenn er ausgeschaltet ist. Finde selber eine Variable, um den Zustand zu setzen.
